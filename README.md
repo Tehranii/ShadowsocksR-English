@@ -1,8 +1,10 @@
+نصب شادوساکس آر انگلیسی
+
 # ShadowsocksR-English
 
 install ShadowsocksR English
 
-wget -N --no-check-certificate https://github.com/Tehranii/ShadowsocksR-English/blob/main/ssrmu.sh && chmod +x ssrmu.sh && ./ssrmu.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Tehranii/ShadowsocksR-English/main/ssrmu.sh && chmod +x ssrmu.sh && ./ssrmu.sh
 
 install BBR
 
