@@ -1,9 +1,9 @@
 
 
 # ShadowsocksR-English   Telegram: https://t.me/iCNii ✌✌ 
-<h2 dir="auto">نصب شادوساکس آر انگلیسی</h2>
+<h2 dir="auto">نصب اسکریپت شادوساکس آر انگلیسی</h2>
 
-<h2 dir="auto">install ShadowsocksR English @iCNii</h2>
+<h2 dir="auto">install scripts ShadowsocksR English @iCNii</h2>
 
 <h2 dir="auto">آپدیت و آپگرید سرور</h2>
 <pre class="notranslate"><code>sudo -- sh -c 'apt-get update; apt-get upgrade -y; apt-get full-upgrade -y; apt-get autoremove -y; apt-get autoclean -y' </code></pre>
