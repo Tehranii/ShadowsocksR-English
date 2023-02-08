@@ -23,6 +23,7 @@ net.ipv4.tcp_congestion_control=bbr
 $ sysctl --system
 
 ران کردن اسکریپت موقع ریبوت کردن و کرش کردن سرور
+
 $ sudo nano /etc/rc.local
 
 #! /bin/bash
