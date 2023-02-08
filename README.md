@@ -43,17 +43,17 @@ $ sudo chmod +x /etc/rc.local
 Download Link
 
 
-<a href="/ShadowsocksR-Live/ssrWin/releases/download/0.8.6/ssr-win-x64.zip" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
+<a href="https://github.com//ShadowsocksR-Live/ssrWin/releases/download/0.8.6/ssr-win-x64.zip" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
     <span data-view-component="true" class="Truncate-text text-bold">ssr-win-x64.zip</span>
     <span data-view-component="true" class="Truncate-text"></span>
 </a>
 <div>
-<a href="/ShadowsocksR-Live/ssrWin/releases/download/0.8.6/ssr-win-x86.zip" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
+<a href="https://github.com//ShadowsocksR-Live/ssrWin/releases/download/0.8.6/ssr-win-x86.zip" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
     <span data-view-component="true" class="Truncate-text text-bold">ssr-win-x86.zip</span>
     <span data-view-component="true" class="Truncate-text"></span>
 </a>
 <div>
-<a href="/HMBSbige/ShadowsocksR-Android/releases/download/3.8.2/shadowsocksr-android-3.8.2.apk" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
+<a href="https://github.com/HMBSbige/ShadowsocksR-Android/releases/download/3.8.2/shadowsocksr-android-3.8.2.apk" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
     <span data-view-component="true" class="Truncate-text text-bold">ssr-android.apk</span>
     <span data-view-component="true" class="Truncate-text"></span>
 </a>
