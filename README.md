@@ -1,6 +1,6 @@
 نصب شادوساکس آر انگلیسی
 
-# ShadowsocksR-English   Telegram: https://t.me/iCNii
+# ShadowsocksR-English   Telegram: https://t.me/iCNii ✌✌
 
 install ShadowsocksR English @iCNii
 
