@@ -49,5 +49,7 @@ Download Link
     <span data-view-component="true" class="Truncate-text text-bold">ssr-win-x86.zip</span>
 <a href="https://github.com/HMBSbige/ShadowsocksR-Android/releases/download/3.8.2/shadowsocksr-android-3.8.2.apk" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
     <span data-view-component="true" class="Truncate-text text-bold">ssr-android.apk</span>
+<a href="https://apps.apple.com/us/app/potatso/id1239860606" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
+    <span data-view-component="true" class="Truncate-text text-bold">ssr-iphone.iso</span>
 </a>
 </code></pre>
