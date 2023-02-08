@@ -12,28 +12,27 @@ install ShadowsocksR English @iCNii
 
 نصب بی بی آر افزایش سرعت سرور و کاهش تاخیر 
 install BBR
-<pre>
+
+<pre class="notranslate"><code>
 $ nano /etc/sysctl.conf
-
 net.ipv4.ip_forward=1
-
 net.core.default_qdisc=fq
-
 net.ipv4.tcp_congestion_control=bbr
-<span class="pl-k"></span></pre>
+</code></pre>
+
 تست نصب بی بی ار
 
-<pre>$ sysctl --system<span class="pl-k"></span></pre>
+<pre class="notranslate"><code>$ sysctl --system</code></pre>
 
 ران کردن اسکریپت موقع ریبوت کردن و کرش کردن سرور
-<pre>
+<pre class="notranslate"><code>
 $ sudo nano /etc/rc.local
 #! /bin/bash
 path/to/ssrmu.sh
 exit 0
 $ sudo chmod +x /etc/rc.local
-<span class="pl-k"></span></pre>
+</code></pre>
 
 نصب با زدن دستور زیر و عدد 1
 
-<pre>./ssrmu.sh<span class="pl-k"></span></pre>
+<pre class="notranslate"><code>./ssrmu.sh</code></pre>
