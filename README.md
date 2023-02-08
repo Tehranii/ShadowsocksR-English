@@ -54,6 +54,6 @@ Download Link
 </a>
 <div>
 <a href="/HMBSbige/ShadowsocksR-Android/releases/download/3.8.2/shadowsocksr-android-3.8.2.apk" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text text-bold">shadowsocksr-android.apk</span>
+    <span data-view-component="true" class="Truncate-text text-bold">ssr-android.apk</span>
     <span data-view-component="true" class="Truncate-text"></span>
 </a>
