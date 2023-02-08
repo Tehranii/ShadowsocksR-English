@@ -373,7 +373,7 @@ View_User_info(){
 # Set configuration information
 Set_config_user(){
 	echo "Please enter the user name of the user to be set (do not repeat, it is used to distinguish, does not support Chinese, spaces, and will report an error!)"
-	read -e -p "(default: doubi):" ssr_username
+	read -e -p "(default: doubi):" ssr_user
 	[[ -z "${ssr_user}" ]] && ssr_user="doubi"
 	ssr_user=$(echo "${ssr_user}"|sed 's/ //g')
 	echo && echo ${Separator_1} && echo -e " Type : ${Green_font_prefix}${ssr_user}${Font_color_suffix}" && echo ${Separator_1} && echo
@@ -1875,4 +1875,4 @@ case "$num" in
 	echo -e "${Error} Please enter the correct number [1-15]"
 	;;
 esac
-fi 
+fi
