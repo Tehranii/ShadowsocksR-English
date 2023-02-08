@@ -1,13 +1,14 @@
-نصب شادوساکس آر انگلیسی
 
-# ShadowsocksR-English   Telegram: https://t.me/iCNii ✌✌
+
+# ShadowsocksR-English   Telegram: https://t.me/iCNii ✌✌ 
+نصب شادوساکس آر انگلیسی
 
 install ShadowsocksR English @iCNii
 
 
 <pre>wget -N --no-check-certificate https://raw.githubusercontent.com/Tehranii/ShadowsocksR-English/main/ssrmu.sh && chmod +x ssrmu.sh && ./ssrmu.sh <span class="pl-k"></span></pre>
 
-
+<p><img alt="" src="https://raw.githubusercontent.com/Tehranii/ShadowsocksR-English/main/shadowsocksR.png" /></p>
 
 نصب بی بی آر افزایش سرعت سرور و کاهش تاخیر 
 install BBR
