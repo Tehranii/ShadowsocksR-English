@@ -1,6 +1,6 @@
 
 
-# ShadowsocksR-English   Telegram: https://t.me/iCNii ✌✌ 
+# ShadowsocksR-English   Telegram: https://t.me/iCNii ✌ 
 <h2 dir="auto">نصب اسکریپت شادوساکس آر انگلیسی</h2>
 
 <h2 dir="auto">install scripts ShadowsocksR English @iCNii</h2>
