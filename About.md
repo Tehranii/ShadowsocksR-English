@@ -19,6 +19,7 @@ net.core.default_qdisc=fq
 net.ipv4.tcp_congestion_control=bbr
 
 تست نصب بی بی ار
+
 $ sysctl --system
 
 ران کردن اسکریپت موقع ریبوت کردن و کرش کردن سرور
