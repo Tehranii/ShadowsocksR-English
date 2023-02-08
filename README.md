@@ -32,4 +32,6 @@ exit 0
 
 $ sudo chmod +x /etc/rc.local
 
+نصب با زدن دستور زیر و عدد 1
 
+./ssrmu.sh
