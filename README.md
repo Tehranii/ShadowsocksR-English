@@ -5,6 +5,8 @@
 
 install ShadowsocksR English @iCNii
 
+آپدیت و آپگرید سرور
+<pre class="notranslate"><code>sudo -- sh -c 'apt-get update; apt-get upgrade -y; apt-get full-upgrade -y; apt-get autoremove -y; apt-get autoclean -y' </code></pre>
 
 <pre>wget -N --no-check-certificate https://raw.githubusercontent.com/Tehranii/ShadowsocksR-English/main/ssrmu.sh && chmod +x ssrmu.sh && ./ssrmu.sh <span class="pl-k"></span></pre>
 
@@ -36,3 +38,22 @@ $ sudo chmod +x /etc/rc.local
 نصب با زدن دستور زیر و عدد 1
 
 <pre class="notranslate"><code>./ssrmu.sh</code></pre>
+
+لینک دانلود برنامه
+Download Link
+
+
+<a href="/ShadowsocksR-Live/ssrWin/releases/download/0.8.6/ssr-win-x64.zip" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
+    <span data-view-component="true" class="Truncate-text text-bold">ssr-win-x64.zip</span>
+    <span data-view-component="true" class="Truncate-text"></span>
+</a>
+<div>
+<a href="/ShadowsocksR-Live/ssrWin/releases/download/0.8.6/ssr-win-x86.zip" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
+    <span data-view-component="true" class="Truncate-text text-bold">ssr-win-x86.zip</span>
+    <span data-view-component="true" class="Truncate-text"></span>
+</a>
+<div>
+<a href="/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
+    <span data-view-component="true" class="Truncate-text text-bold">ssr-android.apk</span>
+    <span data-view-component="true" class="Truncate-text"></span>
+</a>
