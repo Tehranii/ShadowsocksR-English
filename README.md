@@ -10,7 +10,7 @@
 <h2 dir="auto">دستور نصب اسکریپت شادوساکس آر</h2>
 <pre>wget -N --no-check-certificate https://raw.githubusercontent.com/Tehranii/ShadowsocksR-English/main/ssrmu.sh && chmod +x ssrmu.sh && ./ssrmu.sh <span class="pl-k"></span></pre>
 
-<p><img alt="" src="https://raw.githubusercontent.com/Tehranii/github/main/shadowsocksR.png?token=GHSAT0AAAAAAB6QMSLEKI7UXW4VUD7IQAA4Y7D2DWQ" /></p>
+<p><img alt="" src="https://raw.githubusercontent.com/Tehranii/github/main/shadowsocksR.png?token=GHSAT0AAAAAAB7XAM7NT4MEOARSZSDERITMZAHUUAA" /></p>
 
 <h2 dir="auto">نصب بی بی آر افزایش سرعت سرور و کاهش تاخیر</h2> 
 install BBR
