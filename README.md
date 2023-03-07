@@ -5,9 +5,9 @@
 
 <h2 dir="auto">install scripts ShadowsocksR English @iCNii</h2>
 
-<h2 dir="auto">آپدیت و آپگرید سرور</h2>
+<h2 dir="auto">دستور آپدیت و آپگرید سرور</h2>
 <pre class="notranslate"><code>sudo -- sh -c 'apt-get update; apt-get upgrade -y; apt-get full-upgrade -y; apt-get autoremove -y; apt-get autoclean -y' </code></pre>
-
+<h2 dir="auto">دستور نصب اسکریپت شادوساکس آر</h2>
 <pre>wget -N --no-check-certificate https://raw.githubusercontent.com/Tehranii/ShadowsocksR-English/main/ssrmu.sh && chmod +x ssrmu.sh && ./ssrmu.sh <span class="pl-k"></span></pre>
 
 <p><img alt="" src="https://raw.githubusercontent.com/Tehranii/github/main/shadowsocksR.png?token=GHSAT0AAAAAAB6QMSLEKI7UXW4VUD7IQAA4Y7D2DWQ" /></p>
